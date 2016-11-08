@@ -6,6 +6,6 @@
 # Question:
 - [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
 
-[My solution]: (https://github.com/Yegizbayev/Algorithmtracking/blob/master/week1/Distinct%20Primes)
+-[My solution]: (https://github.com/Yegizbayev/Algorithmtracking/blob/master/week1/Distinct%20Primes)
 
 
