@@ -8,6 +8,6 @@
 
 and 
 
-[My solution] (https://github.com/Yegizbayev/Algorithmtracking/blob/master/week1/Distinct%20Primes)
+- [My Solution] (https://github.com/Yegizbayev/Algorithmtracking/blob/master/week1/Distinct%20Primes)
 
 
