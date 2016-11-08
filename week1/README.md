@@ -1,3 +1,3 @@
 # week one
-#[oneweek ](https://github.com/Yegizbayev/Algorithmtracking/tree/master/week1)
+#### [week #1](https://github.com/Yegizbayev/Algorithmtracking/tree/master/week1)
 
