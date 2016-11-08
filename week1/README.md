@@ -1,2 +1,2 @@
 # week one
--[hamza](https://www.youtube.com)
+-[week one](https://github.com/Yegizbayev/Algorithmtracking/tree/master/week1)
