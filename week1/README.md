@@ -3,4 +3,9 @@
 ##My Studying sources:
 - [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 
-# My code: 
+# Question:
+- [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
+
+[My solution]: (https://github.com/Yegizbayev/Algorithmtracking/blob/master/week1/Distinct%20Primes)
+
+
