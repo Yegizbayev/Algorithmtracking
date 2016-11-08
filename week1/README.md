@@ -1,8 +1,9 @@
 #week 1:
 
 # Studying sources:
-- [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 - [Good explanation on KhanAcademy](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-prime-numbers/v/prime-numbers)
+- [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+
 
 # Questions - Solutions:
 - [Distinct Primes](http://www.spoj.com/problems/AMR11E/)  
