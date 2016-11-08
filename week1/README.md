@@ -1,6 +1,6 @@
 #week 1:
 
-##Studying sources:
+# Studying sources:
 - [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
 
 # Questions - Solutions:
